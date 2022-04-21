@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, my name is Mehedi
+### Hi there 👋, my name is Mehedi
 #### noob coder!
 ![noob coder!](https://github.com/MeheD1i/MeheD1i/blob/main/hello-world.gif)
 
