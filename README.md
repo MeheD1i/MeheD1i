@@ -16,6 +16,4 @@ Skills: C / C++ / PYTHON / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeheD1i&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MeheD1i)  
-
 ![Profile views](https://gpvc.arturio.dev/MeheD1i)  
