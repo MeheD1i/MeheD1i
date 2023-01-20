@@ -18,4 +18,3 @@ Skills: C / C++ / PYTHON / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/MeheD1i)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
