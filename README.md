@@ -5,8 +5,8 @@
 
 Skills: C / C++ / PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on improving in programming skills. 
-- 🌱 I’m currently learning Data Structures and Algorithms. 
+- 🔭 I’m currently working on Computer Vision. 
+- 🌱 I’m currently learning NLP. 
 - 📫 How to reach me: kpmh222@gmail.com 
 
 
