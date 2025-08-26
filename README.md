@@ -3,7 +3,7 @@
 ![noob coder!](https://github.com/MeheD1i/MeheD1i/blob/main/hello-world.gif)
 
 
-Skills: C / C++ / PYTHON / REACT / JS / HTML / CSS
+Skills: C / C++ / PYTHON / REACT / JS / HTML / CSS/ POWERBI/ SQL/ JAVA
 
 - 🔭 I’m currently working on Computer Vision. 
 - 🌱 I’m currently learning NLP. 
