@@ -1,20 +1,42 @@
-### Hello!! Its Mehedi
-#### noob coder!
-![noob coder!](https://github.com/MeheD1i/MeheD1i/blob/main/hello-world.gif)
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h3 align="center">🚀 Data Science & AI Enthusiast | CSE Graduate</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+%26+AI+Explorer;Always+Learning+New+Tech;Passionate+About+Analytics+%26+AI" />
+</p>
 
-Skills: C / C++ / PYTHON / REACT / JS / HTML / CSS/ POWERBI/ SQL/ JAVA
+---
 
-- 🔭 I’m currently working on Computer Vision. 
-- 🌱 I’m currently learning NLP. 
-- 📫 How to reach me: kpmh222@gmail.com 
+### 👨‍💻 About Me
+- 🎓 CSE Graduate | Data Science & Analytics Enthusiast  
+- 🔭 Currently working on **Computer Vision projects**  
+- 🌱 Learning **NLP & Generative AI**  
+- 💡 Interested in **Machine Learning, AI, and Data Analytics**  
+- 📫 Reach me at: **kpmh222@gmail.com**
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MeheD1i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/exequiel.mehedi)  
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,js,html,css,mysql,powerbi,git,github" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeheD1i)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeheD1i&show_icons=true)  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeheD1i&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeheD1i&theme=tokyonight" height="160"/>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/MeheD1i)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeheD1i&layout=compact&theme=tokyonight" />
+</p>
 
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/MeheD1i"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.facebook.com/exequiel.mehedi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
